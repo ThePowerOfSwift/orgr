@@ -26,7 +26,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#import <ENSDK/ENSDK.h>
+#import "ENSDK/ENSDK.h"
 #import "EDAM.h"
 #import "ENNoteStoreClient.h"
 #import "ENUserStoreClient.h"
